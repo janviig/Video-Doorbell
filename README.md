@@ -7,3 +7,4 @@ Repo consists of:
 - Camera Module code for the camera to work on the RPi
 - Report outlining instructions, conlusion and original plan
 - Report also exhibiting schematic diagrams for hardware designs
+- Report outlining If This Then That (IFTTT) trigger to receive emails when sensor recognises movement
