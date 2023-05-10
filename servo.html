@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>lock control for doorbell</title>
+<head>
+<body>
+
+<h1>door lock control</h1>
+<p>choose to open lock or ignore</p>  
+
+<form action = "https://api.particle.io/v1/devices/e00fce688c1f83fd74ba8fda/servo?access_token=1a088fd6db498035439d2249d901759ed657222a" method = "POST">
+       <br>
+       <input type="radio" name="arg" value="open the door"> open the door.
+       <br>
+       <input type="radio" name="arg" value="ignore"> ignore.
+       <br>
+       <br>
+       <input type="submit" value="submit">
+       </form>
+</body> 
+</html>
